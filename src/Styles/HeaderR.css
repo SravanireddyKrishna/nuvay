@@ -1,0 +1,33 @@
+.Icon-bell h2
+{
+    color:white !important;
+    padding-left: 40px;
+}
+.vertical
+{
+    border-left: 2px solid rgb(252, 248, 248);
+    height: 50px;
+    position:absolute;
+    left: 74%;
+    top:20px;
+}
+.login-btn
+{
+    position:absolute;
+    left: 78%;
+    top:20px;
+    
+}
+.login-btn button
+ {
+    background-color: #0B846E;
+    border-color: #5c2a2a;
+    border-radius: 10px 20px 5px 10px;
+    color:white;
+    padding:10px 20px;
+    font-weight: bold;
+}
+.login-btn button:hover
+{
+    background-image: linear-gradient(#c9be9d,#ad9345);
+}

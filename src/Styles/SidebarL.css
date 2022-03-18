@@ -1,0 +1,16 @@
+.sidebarLeft
+{
+    width: 40vh;
+    height: 100vh;
+    background-color: #0B846E;
+    margin:40px 10px 20px 20px;
+}
+
+.sidebarL
+{
+    background-color: #ced4de;
+}
+.Menu ul li {
+    list-style-type: none;
+    color:white;
+}

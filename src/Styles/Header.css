@@ -1,0 +1,20 @@
+.logo .navbar-brand
+{
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 5px 20px 10px 40px;
+    
+}
+.Navbar
+{
+    background-color: #0B846E;
+}
+.search
+{
+    padding: 20px 20px 10px 10px;
+    width: 70vh;
+}

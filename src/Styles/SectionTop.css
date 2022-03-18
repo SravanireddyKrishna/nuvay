@@ -1,0 +1,43 @@
+.List-Items ul li 
+{
+    list-style-type:none;
+    display:inline;
+    margin:20px;
+    color: #0B846E;
+    font-size: 20px;
+    font-weight: 500;
+}
+.List-Items li a
+{
+    color:#0B846E;
+}
+.section-bar
+{
+    padding:30px 200px ;
+    
+}
+.Guser
+{
+    color: #0B846E;
+    Font-size:25px;
+    font-weight: 500;
+    padding-left:150px;
+    text-align: center;
+}
+.student-class
+{
+    color: #0B846E;
+    padding-left: 15px;
+    text-align: center;
+    padding-top: 5px;
+    font-size:20px;
+    font-weight:bold;
+}
+.right-side
+{
+    display: flex;
+}
+a
+{
+    text-decoration: none;
+}
