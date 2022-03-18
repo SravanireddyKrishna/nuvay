@@ -3,13 +3,14 @@
     list-style-type:none;
     display:inline;
     margin:20px;
-    color: #0B846E;
+   
     font-size: 20px;
     font-weight: 500;
 }
 .List-Items li a
 {
     color:#0B846E;
+
 }
 .section-bar
 {
