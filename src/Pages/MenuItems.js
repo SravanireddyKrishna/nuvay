@@ -8,42 +8,43 @@ export const MenuItems= [
         title:"MyProfile",
         path:"/",
         icon:<FaIcons.FaUserAlt/>,
+        
     },
     {
         title:"Student Profile",
         path:"/student-profile",
         icon:<FaIcons.FaDiscourse/>,
+       
     },
     {
         title:"My-Subscription",
         path:"/my-subscription",
         icon:<FaIcons.FaMoneyCheck/>,
+        
     },
     {
         title:"Growth",
         path:"/growth",
         icon:<FaIcons.FaTree/>,
+        
     },
     {
         title:"Assignmet",
         path:"/assignment",
         icon:<FaIcons.FaNetworkWired/>,
-
-        subMenu:[
-            {
-                title:"Maths",
-                path:"/maths",
-            },
-            {
-                title:"Science",
-                path:"/science",
-            },
-        ]
+    },
+   
+    
+];
+export const assignmentDropdown=[
+    {
+        title:"Maths",
+        path:"/maths",
+                
     },
     {
-        title:"SignOut",
-        path:"/signout",
-        icon:<FaIcons.FaSignOutAlt/>,
-    }
-    
-]
+        title:"Science",
+        path:"/science",
+        
+    },
+];

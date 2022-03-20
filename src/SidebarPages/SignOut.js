@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '../Styles/SignOut.css';
+
 
 export default function SignOut() {
   return (
     <div>
-        <button className="btn btn-success">SignOut</button>
+      <button className="Button">SignOut</button>
     </div>
   )
 }

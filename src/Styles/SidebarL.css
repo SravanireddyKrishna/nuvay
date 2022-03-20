@@ -8,9 +8,18 @@
 
 .sidebarL
 {
-    background-color: #ced4de;
+    background-color: #0B846E;
 }
-.Menu ul li {
+.Menu ul li 
+{
     list-style-type: none;
-    color:white;
+    font-size: 18px;
+   
 }
+.Menu li a 
+{
+    color:white;
+    display: flex;
+    padding:10px;
+}
+ 

@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import '../Styles/SidebarPages.css';
 
 export default function MySubscription() {
   return (
